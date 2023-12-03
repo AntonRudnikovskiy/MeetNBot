@@ -1,0 +1,6 @@
+[submodule "parsing_service"]
+	path = parsing_service
+	url = https://github.com/AntonRudnikovskiy/parsing_service
+[submodule "message_service"]
+	path = message_service
+	url = https://github.com/AntonRudnikovskiy/message_service
